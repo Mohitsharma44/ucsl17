@@ -4,9 +4,10 @@
 
 ## Table Of Contents
 
-### [Preface]()
+### [Welcome]('https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/Welcome.ipynb')
 
 ### [1. Introduction to Python and beyond]()
+- [Setting up your environment]()
 - [Getting familiar with Notebook]()
 - [Basic Python Syntax]()
 
