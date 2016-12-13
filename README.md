@@ -4,7 +4,7 @@
 
 ## Table Of Contents
 
-### [Welcome]('https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/Welcome.ipynb')
+### [Welcome](https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/Welcome.ipynb)
 
 ### [1. Introduction to Python and beyond]()
 - [Setting up your environment]()
