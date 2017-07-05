@@ -23,6 +23,7 @@ FILENAME    = "Challenge_1_Solutions.ipynb"
 NET_ID_FILE = os.getenv("NETID_17")
 # directory where solutions will be copied
 TA_ID       = os.getenv("UCSL_TA")
+DESTINATION = os.path.join(BASE_PATH, TA_ID, 'ucsl_submission1')
 
 def progress(count, total, status=''):
     """
@@ -141,6 +142,6 @@ if __name__ == "__main__":
     
     # Information of students who submitted challenge
     names_submitted =  filter(lambda x: x if x[2] in files.keys() else False, students)
-    with open(FILENAME[:-6]+"_students.csv", 'w') as fh:
+    with open(os.path.join(DESTINATION, FILENAME[:-6] + "_students.csv"), 'w') as fh:
         writer = csv.writer(fh, delimiter=',')
         writer.writerows(names_submitted)
