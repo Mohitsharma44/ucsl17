@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 
-### [Welcome](https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/Welcome.ipynb)
+### [Welcome](https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/00-00%20Welcome.ipynb)
 
 ### [0. Introduction to Notebook and beyond](https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/00-02%20Introduction%20to%20Notebook%20and%20beyond.ipynb)
 - [Setting up your environment]()
