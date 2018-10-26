@@ -35,6 +35,7 @@
 - [Subplots, Text and Annotations](https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/04-03%20Subplots%20text%20and%20annotations.ipynb)
 
 ### [5. Introduction to Statistics](https://github.com/Mohitsharma44/ucsl17/tree/master/notebooks/05-00%20Statistics)*
+See [videos](https://serv.cusp.nyu.edu/~fbianco/PUIdata/UCSLvideos/) and slides names UCSL_2016
 
 ### [6. Pandas](https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/05-00%20Intro%20to%20Pandas.ipynb)
 - [Series and Dataframe](https://github.com/Mohitsharma44/ucsl17/blob/master/notebooks/05-01%20Series%20and%20Dataframe.ipynb)
